@@ -28,6 +28,14 @@ export default {
     lineChart: 'Line Chart',
     mixChart: 'Mix Chart',
     example: 'Example',
+    nested: 'Nested Routes',
+    menu1: 'Menu 1',
+    'menu1-1': 'Menu 1-1',
+    'menu1-2': 'Menu 1-2',
+    'menu1-2-1': 'Menu 1-2-1',
+    'menu1-2-2': 'Menu 1-2-2',
+    'menu1-3': 'Menu 1-3',
+    menu2: 'Menu 2',
     Table: 'Table',
     dynamicTable: 'Dynamic Table',
     dragTable: 'Drag Table',
@@ -124,7 +132,7 @@ export default {
   },
   excel: {
     export: 'Export',
-    selectedExport: 'Export selected items',
+    selectedExport: 'Export Selected Items',
     placeholder: 'Please enter the file name(default excel-list)'
   },
   zip: {
@@ -132,7 +140,7 @@ export default {
     placeholder: 'Please enter the file name(default file)'
   },
   theme: {
-    change: 'Theme change',
+    change: 'Change Theme',
     documentation: 'Theme documentation',
     tips: 'Tips: It is different from the theme-pick on the navbar is two different skinning methods, each with different application scenarios. Refer to the documentation for details.'
   },
